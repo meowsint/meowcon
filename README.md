@@ -2,9 +2,13 @@
 
 MeowCon Engine is a web-based reconnaissance toolkit designed for security researchers, bug hunters, and OSINT practitioners. It collects relevant publicly-available information about a target domain and opens curated search queries (dorks) across many public sources (crt.sh, Shodan, Censys, GitHub, Wayback, Google dorks, etc.).
 
-**Key idea:** simplify recon by centralizing commonly-used dorks and OSINT sources into one compact interface so recon becomes faster, repeatable and shareable.
-
+**It simplifies dorking and reconnaissance, saving you time.**
 ---
+
+## How to use the tool?
+
+- Just enter your target domain and click **Focus** that's it.
+- Now click the buttons to start recon
 
 ## Features
 
@@ -19,7 +23,6 @@ MeowCon Engine is a web-based reconnaissance toolkit designed for security resea
 - **Generic:** assorted Google dorks for sensitive files, backups, robots, phpinfo, server-status etc.  
 - **cve search:** quick CVE/exploit lookup links (Exploit-DB, 0day.today, CISA, MITRE, etc.).
 
-> **Workflow:** enter the **target domain** once (e.g. `example.com`). All buttons and payloads auto-replace `example.com` with your target, so recon is simplified and fast.
-
----
+## Credits
+- MEOW MEOW MEOW MEOW MEOW MEOW - **MEOWSINT**
 
